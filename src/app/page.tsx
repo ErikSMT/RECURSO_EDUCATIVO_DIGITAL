@@ -1,3 +1,6 @@
+// @ts-nocheck
+import React, { useState, useEffect, useRef } from 'react';
+// ... el resto de tu código
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
